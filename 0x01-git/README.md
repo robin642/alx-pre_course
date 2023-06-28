@@ -1,1 +1,1 @@
-My first readme in the directory update
+My first readme updated
